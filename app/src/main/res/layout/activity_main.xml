@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/bapologo"
+        android:layout_width="325dp"
+        android:layout_height="316dp"
+        android:layout_marginStart="@dimen/startIv"
+        android:layout_marginLeft="@dimen/startIv"
+        android:layout_marginTop="187dp"
+        android:layout_marginEnd="@dimen/endIv"
+        android:layout_marginRight="@dimen/endIv"
+        android:layout_marginBottom="228dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/bapologo" />
+
+    <Button
+        android:id="@+id/boutonGo"
+        android:layout_width="@dimen/widthBto"
+        android:layout_height="@dimen/heightBto"
+        android:layout_marginStart="@dimen/startBto"
+        android:layout_marginLeft="@dimen/startBto"
+        android:layout_marginTop="@dimen/topBto"
+        android:layout_marginEnd="@dimen/endBto"
+        android:layout_marginRight="@dimen/endBto"
+        android:layout_marginBottom="@dimen/bottomBto"
+        android:padding="@dimen/paddingBto"
+        android:shadowColor="@color/yellow"
+        android:text="Entrez Vos Infos"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/bapologo"
+        app:layout_constraintVertical_bias="0.718" />
+
+</android.support.constraint.ConstraintLayout>

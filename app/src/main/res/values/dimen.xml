@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heightTV1">50dp</dimen>
+    <dimen name="topTV1">5dp</dimen>
+
+    <dimen name="startTV1">24dp</dimen>
+    <dimen name="endTV1">24dp</dimen>
+    <dimen name="paddingTV1">1dp</dimen>
+    <dimen name="textSizeTV1">15dp</dimen>
+    <dimen name="bottomTV1">29dp</dimen>
+
+    <dimen name="widthTV2">160dp</dimen>
+    <dimen name="heightTV2">50dp</dimen>
+    <dimen name="topTV2">5dp</dimen>
+    <dimen name="bottomTV2">29dp</dimen>
+    <dimen name="endTV2">10dp</dimen>
+    <dimen name="rightTV2">10dp</dimen>
+    <dimen name="paddingTV2">1dp</dimen>
+    <dimen name="textSizeTV2">15dp</dimen>
+
+    <dimen name="widthTV3">222dp</dimen>
+    <dimen name="heightTV3">45dp</dimen>
+    <dimen name="bottomTV3">1dp</dimen>
+    <dimen name="endTV3">10dp</dimen>
+    <dimen name="topTV3">20dp</dimen>
+    <dimen name="startTV3">10dp</dimen>
+    <dimen name="paddingTV3">1dp</dimen>
+    <dimen name="textSizeTV3">15dp</dimen>
+
+    <dimen name="widthTV4">333dp</dimen>
+    <dimen name="heightTV4">54dp</dimen>
+    <dimen name="topTV4">8dp</dimen>
+    <dimen name="bottomTV4">8dp</dimen>
+    <dimen name="endTV4">10dp</dimen>
+    <dimen name="startTV4">24dp</dimen>
+    <dimen name="rightTV4">10dp</dimen>
+    <dimen name="paddingTV4">1dp</dimen>
+    <dimen name="textSizeTV4">15dp</dimen>
+
+    <dimen name="widthTV5">333dp</dimen>
+    <dimen name="heightTV5">55dp</dimen>
+    <dimen name="bottomTV5">30dp</dimen>
+    <dimen name="endTV5">10dp</dimen>
+    <dimen name="rightTV5">10dp</dimen>
+    <dimen name="startTV5">24dp</dimen>
+    <dimen name="leftTV5">24dp</dimen>
+    <dimen name="paddingTV5">1dp</dimen>
+    <dimen name="textSizeTV5">15dp</dimen>
+
+    <dimen name="widthTV6">160dp</dimen>
+    <dimen name="heightTV6">40dp</dimen>
+    <dimen name="endTV6">250dp</dimen>
+    <dimen name="rightTV6">250dp</dimen>
+    <dimen name="topTV6">24dp</dimen>
+    <dimen name="startTV6">20dp</dimen>
+    <dimen name="leftTV6">20dp</dimen>
+    <dimen name="paddingTV6">1dp</dimen>
+    <dimen name="textSizeTV6">15sp</dimen>
+
+    <dimen name="widthTV7">160dp</dimen>
+    <dimen name="heightTV7">40dp</dimen>
+    <dimen name="endTV7">250dp</dimen>
+    <dimen name="topTV7">16dp</dimen>
+    <dimen name="bottomTV7">10dp</dimen>
+    <dimen name="rightTV7">250dp</dimen>
+    <dimen name="startTV7">24dp</dimen>
+    <dimen name="leftTV7">24dp</dimen>
+    <dimen name="paddingTV7">1dp</dimen>
+    <dimen name="textSizeTV7">15sp</dimen>
+
+    <dimen name="widthTV8">242dp</dimen>
+    <dimen name="heightTV8">117dp</dimen>
+    <dimen name="bottomTV8">24dp</dimen>
+    <dimen name="textSizeTV8">15sp</dimen>
+    <dimen name="paddingTV8">1dp</dimen>
+
+    <dimen name="widthBtn1">191dp</dimen>
+    <dimen name="heightBtn1">41dp</dimen>
+    <dimen name="bottomBtn1">16dp</dimen>
+    <dimen name="textSizeBtn1">15sp</dimen>
+
+
+    <dimen name="widthTtl">340dp</dimen>
+    <dimen name="heightTtl">70dp</dimen>
+    <dimen name="bottomTtl">1dp</dimen>
+    <dimen name="endTtl">5dp</dimen>
+    <dimen name="topTtl">15dp</dimen>
+    <dimen name="startTtl">10dp</dimen>
+    <dimen name="paddingTtl">1dp</dimen>
+    <dimen name="textSizeTtl">25sp</dimen>
+
+    <dimen name="widthBC1">350dp</dimen>
+    <dimen name="heightBC1">40dp</dimen>
+    <dimen name="leftBC1">10dp</dimen>
+    <dimen name="rightBC1">5dp</dimen>
+    <dimen name="topBC1">1dp</dimen>
+    <dimen name="bottomBC1">1dp</dimen>
+    <dimen name="startBC1">10dp</dimen>
+    <dimen name="endBC1">5dp</dimen>
+    <dimen name="paddingBC1">10dp</dimen>
+    <dimen name="textSizeBC1">15sp</dimen>
+
+    <dimen name="widthBC2">350dp</dimen>
+    <dimen name="heightBC2">40dp</dimen>
+    <dimen name="topBC2">1dp</dimen>
+    <dimen name="bottomBC2">1dp</dimen>
+    <dimen name="startBC2">10dp</dimen>
+    <dimen name="endBC2">5dp</dimen>
+    <dimen name="paddingBC2">10dp</dimen>
+    <dimen name="textSizeBC2">15sp</dimen>
+
+    <dimen name="widthBC3">350dp</dimen>
+    <dimen name="heightBC3">40dp</dimen>
+    <dimen name="topBC3">1dp</dimen>
+    <dimen name="bottomBC3">1dp</dimen>
+    <dimen name="startBC3">10dp</dimen>
+    <dimen name="endBC3">5dp</dimen>
+    <dimen name="paddingBC3">10dp</dimen>
+    <dimen name="textSizeBC3">15sp</dimen>
+
+    <dimen name="widthBC4">350dp</dimen>
+    <dimen name="heightBC4">60dp</dimen>
+    <dimen name="topBC4">1dp</dimen>
+    <dimen name="bottomBC4">1dp</dimen>
+    <dimen name="startBC4">10dp</dimen>
+    <dimen name="endBC4">5dp</dimen>
+    <dimen name="paddingBC4">10dp</dimen>
+    <dimen name="textSizeBC4">15sp</dimen>
+
+    <dimen name="widthBC5">350dp</dimen>
+    <dimen name="heightBC5">60dp</dimen>
+    <dimen name="topBC5">1dp</dimen>
+    <dimen name="bottomBC5">1dp</dimen>
+    <dimen name="startBC5">10dp</dimen>
+    <dimen name="endBC5">5dp</dimen>
+    <dimen name="paddingBC5">10dp</dimen>
+    <dimen name="textSizeBC5">15sp</dimen>
+
+    <dimen name="widthBC6">175dp</dimen>
+    <dimen name="heightBC6">35dp</dimen>
+    <dimen name="topBC6">1dp</dimen>
+    <dimen name="bottomBC6">1dp</dimen>
+    <dimen name="startBC6">10dp</dimen>
+    <dimen name="endBC6">5dp</dimen>
+    <dimen name="paddingBC6">10dp</dimen>
+    <dimen name="textSizeBC6">14sp</dimen>
+
+    <dimen name="widthBC7">175dp</dimen>
+    <dimen name="heightBC7">35dp</dimen>
+    <dimen name="topBC7">1dp</dimen>
+    <dimen name="bottomBC7">1dp</dimen>
+    <dimen name="startBC7">10dp</dimen>
+    <dimen name="endBC7">5dp</dimen>
+    <dimen name="paddingBC7">10dp</dimen>
+    <dimen name="textSizeBC7">14sp</dimen>
+
+    <dimen name="widthBC8">300dp</dimen>
+    <dimen name="heightBC8">50dp</dimen>
+    <dimen name="topBC8">1dp</dimen>
+    <dimen name="bottomBC8">1dp</dimen>
+    <dimen name="startBC8">10dp</dimen>
+    <dimen name="endBC8">5dp</dimen>
+    <dimen name="paddingBC8">10dp</dimen>
+    <dimen name="textSizeBC8">25sp</dimen>
+
+    <dimen name="widthBn">219dp</dimen>
+    <dimen name="heightBn">39dp</dimen>
+    <dimen name="topBn">15dp</dimen>
+    <dimen name="bottomBn">5dp</dimen>
+    <dimen name="startBn">10dp</dimen>
+    <dimen name="endBn">10dp</dimen>
+    <dimen name="textSizeBn">15sp</dimen>
+
+
+    <dimen name="topMA">90dp</dimen>
+    <dimen name="bottomMA">98dp</dimen>
+    <dimen name="startMA">26dp</dimen>
+    <dimen name="leftMA">26dp</dimen>
+    <dimen name="paddingMA">10dp</dimen>
+    <dimen name="textSizeMA">55sp</dimen>
+
+    <dimen name="widthIv">298dp</dimen>
+    <dimen name="heighIv">275dp</dimen>
+    <dimen name="topIv">10dp</dimen>
+    <dimen name="bottomIv">263dp</dimen>
+    <dimen name="startIv">10dp</dimen>
+    <dimen name="endIv">10dp</dimen>
+
+    <dimen name="widthBto">250dp</dimen>
+    <dimen name="heightBto">63dp</dimen>
+    <dimen name="topBto">10dp</dimen>
+    <dimen name="bottomBto">5dp</dimen>
+    <dimen name="startBto">10dp</dimen>
+    <dimen name="endBto">10dp</dimen>
+    <dimen name="paddingBto">1dp</dimen>
+
+
+    <dimen name="widthImg">265dp</dimen>
+    <dimen name="heightImg">394dp</dimen>
+    <dimen name="topImg">10dp</dimen>
+    <dimen name="bottomImg">10dp</dimen>
+
+    <dimen name="widthBar">78dp</dimen>
+    <dimen name="heightBar">95dp</dimen>
+    <dimen name="topBar">10dp</dimen>
+    <dimen name="bottomBar">10dp</dimen>
+
+</resources>
